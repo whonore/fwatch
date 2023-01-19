@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fwatch"
-version = "0.0.0"
+version = "0.1.0"
 description = "A very simple file watcher."
 authors = ["Wolf Honore <wolfhonore@gmail.com>"]
 license = "MIT"
